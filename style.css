@@ -1,0 +1,36 @@
+.container {
+    font-family: "Courier New";
+    width: 70%;
+    height: 300px;
+    overflow: auto;
+    float: left;
+    border: 1px solid black;
+}
+.usercontainer {
+    font-family: "Courier New";
+    width: 28%;
+    float: left;
+    height: 300px;
+    overflow: auto;
+    border: 1px solid black;
+}
+.LockOff {
+    display: none;
+    visibility: hidden;
+}
+
+.LockOn {
+    display: block;
+    visibility: visible;
+    position: absolute;
+    z-index: 999;
+    top: 0px;
+    left: 0px;
+    width: 1024%;
+    height: 768%;
+    background-color: #ccc;
+    text-align: center;
+    padding-top: 20%;
+    filter: alpha(opacity = 75);
+    opacity: 0.75;
+}
