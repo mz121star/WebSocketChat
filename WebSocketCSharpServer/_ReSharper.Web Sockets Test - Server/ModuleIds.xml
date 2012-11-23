@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="576C6442-8258-4F9F-B197-E729A80A5249" ModuleId="Web Sockets Test - Server" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025" ModuleId="UnitTest" />
+</Modules>

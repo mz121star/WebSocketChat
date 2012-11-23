@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Sockets Test - Server", "Web Sockets Test - Server.csproj", "{576C6442-8258-4F9F-B197-E729A80A5249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTest", "LoadTest\LoadTest.csproj", "{FF0E62EB-74C2-4F19-9E79-D3740B799193}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C3423B64-F33C-4BAD-8329-694199A1AFB1}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		Web Sockets Test - Server.vsmdi = Web Sockets Test - Server.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Web Sockets Test - Server.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576C6442-8258-4F9F-B197-E729A80A5249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576C6442-8258-4F9F-B197-E729A80A5249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576C6442-8258-4F9F-B197-E729A80A5249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576C6442-8258-4F9F-B197-E729A80A5249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0E62EB-74C2-4F19-9E79-D3740B799193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0E62EB-74C2-4F19-9E79-D3740B799193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0E62EB-74C2-4F19-9E79-D3740B799193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0E62EB-74C2-4F19-9E79-D3740B799193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0A4D7F-4808-4CC8-BDBD-46CAE01B5025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

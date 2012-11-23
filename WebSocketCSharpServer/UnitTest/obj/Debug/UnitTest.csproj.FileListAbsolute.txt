@@ -1,0 +1,7 @@
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\bin\Debug\Web Sockets Test - Server.exe
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\bin\Debug\Web Sockets Test - Server.pdb
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\UnitTest\obj\Debug\UnitTest.pdb
