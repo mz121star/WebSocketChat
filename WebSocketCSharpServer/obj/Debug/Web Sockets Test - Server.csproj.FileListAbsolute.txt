@@ -42,3 +42,10 @@ C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Se
 C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\obj\Debug\Web Sockets Test - Server.pdb
 C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\bin\Debug\Web Sockets Test - Server.exe
 C:\Users\c-jarrick.miao.DOMAIN1\Downloads\new-source\new - Web Sockets chat - Server\Web Sockets chat - Server\bin\Debug\Web Sockets Test - Server.pdb
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\obj\Debug\Web Sockets Test - Server.exe
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\obj\Debug\Web Sockets Test - Server.pdb
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\bin\Debug\Web Sockets Test - Server.exe
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\bin\Debug\Web Sockets Test - Server.pdb
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\obj\Debug\Web Sockets Test - Server.csprojResolveAssemblyReference.cache
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\bin\Debug\Web Sockets Test - Server.exe.config
+E:\CodeSource\FrontEndDevlopment\WebSocketChat\WebSocketCSharpServer\bin\Debug\App.config

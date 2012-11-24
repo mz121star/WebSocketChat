@@ -7,6 +7,7 @@ using System.IO;
 using System.Collections;
 using Web_Sockets_Test___Server;
 using Web_Sockets_Test___Server.MessageType;
+using System.Configuration;
 
 namespace WebSocketServer
 {
@@ -133,8 +134,9 @@ namespace WebSocketServer
             //    if (ip.AddressFamily == AddressFamily.InterNetwork)
             //        return ip;
             //}
-
-            return ipEntry.AddressList[4];
+            var ipaddress = ConfigurationManager.AppSettings["IpAddress"] ;
+            return IPAddress.Parse(ipaddress);
+           // return ipEntry.AddressList[4];
         }
 
         public void StartServer()
@@ -143,7 +145,7 @@ namespace WebSocketServer
 
             Listener = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.IP);
             Listener.Bind(new IPEndPoint(getLocalmachineIPAddress(), ServerPort));
-
+            
             Listener.Listen(ConnectionsQueueLength);
 
             logger.Log(string.Format("聊天服务器启动。监听地址：{0}, 端口：{1}", getLocalmachineIPAddress(), ServerPort));
