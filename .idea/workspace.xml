@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06b42149-f09c-40f3-8a9d-829a67bd7470" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/obj/Debug/LoadTest.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/obj/Debug/LoadTest.csprojResolveAssemblyReference.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/UnitTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/UnitTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.exe" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.pdb" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.vshost.exe" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/bin/Debug/Web Sockets Test - Server.vshost.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.exe" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.exe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.pdb" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/LoadTest.csproj" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/LoadTest/LoadTest.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/Web Sockets Test - Server.csproj" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/Web Sockets Test - Server.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/Web Sockets Test - Server.sln" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/Web Sockets Test - Server.sln" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/WebSocketsServer.cs" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/WebSocketsServer.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/WebSocketCSharpServer/obj/Debug/Web Sockets Test - Server.csproj.FileListAbsolute.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/socket.js" afterPath="$PROJECT_DIR$/js/socket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebSocketChat.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,19 +23,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="41" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-14.928572">
+            <state line="15" column="30" selection-start="419" selection-end="419" vertical-scroll-proportion="0.1">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="socket.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="socket.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/socket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="0" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.8769231">
+            <state line="81" column="0" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1353687544403" expanded="false" signature="2967:2980" placeholder="..." />
                 <marker date="1353687544403" expanded="false" signature="3057:3071" placeholder="..." />
@@ -63,7 +49,7 @@
       <file leaf-file-name="ckeditor.asp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ckeditor.asp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="19" selection-start="585" selection-end="585" vertical-scroll-proportion="-16.285715">
+            <state line="24" column="19" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -92,8 +78,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/socket.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/require.js" />
       </list>
     </option>
   </component>
@@ -129,6 +116,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,19 +149,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocketChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebSocketChat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -193,7 +194,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
       <JSDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSDebuggerConfigurationSettings>
       <method />
@@ -203,6 +204,7 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="06b42149-f09c-40f3-8a9d-829a67bd7470" name="Default" comment="" />
       <created>1353678009005</created>
       <updated>1353678009005</updated>
     </task>
@@ -218,30 +220,34 @@
       <created>1353681310032</created>
       <updated>1353681310032</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="remove jquery.js file to js folder.">
+      <created>1353762612820</created>
+      <updated>1353762612820</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -279,7 +285,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added  chatroom server sourcecode(CSharp), will soon public nodejs version service end" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove jquery.js file to js folder." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -294,23 +300,34 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="move chat javascript  files to js folder" />
     <MESSAGE value="Added  chatroom server sourcecode(CSharp), will soon public nodejs version service end" />
+    <MESSAGE value="remove jquery.js file to js folder." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ckeditor.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="31" column="41" selection-start="1081" selection-end="1081" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/socket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="0" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <marker date="1353687544403" expanded="false" signature="2967:2980" placeholder="..." />
+            <marker date="1353687544403" expanded="false" signature="3057:3071" placeholder="..." />
+            <marker date="1353687544403" expanded="false" signature="3150:3161" placeholder="..." />
+            <marker date="1353687544403" expanded="false" signature="3657:3670" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ckeditor.asp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="19" selection-start="585" selection-end="585" vertical-scroll-proportion="-16.285715">
+        <state line="24" column="19" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -322,22 +339,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/ckeditor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="41" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-14.928572">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ckeditor.asp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="19" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/socket.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="0" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.8769231">
+        <state line="81" column="0" selection-start="2136" selection-end="2136" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1353687544403" expanded="false" signature="2967:2980" placeholder="..." />
             <marker date="1353687544403" expanded="false" signature="3057:3071" placeholder="..." />
             <marker date="1353687544403" expanded="false" signature="3150:3161" placeholder="..." />
             <marker date="1353687544403" expanded="false" signature="3657:3670" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="32" selection-start="49" selection-end="154" vertical-scroll-proportion="-10.326087">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="30" selection-start="419" selection-end="419" vertical-scroll-proportion="0.1">
+          <folding />
         </state>
       </provider>
     </entry>
