@@ -1,1 +1,5 @@
-This file was created by JetBrains WebStorm 5.0.2 for binding GitHub repository
+  
+  # WebSocket聊天室 #
+ 
+  ====================
+  采用Html5 websocket开发的聊天室程序，server端采用C#
